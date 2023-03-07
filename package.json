@@ -1,0 +1,16 @@
+{
+  "name": "raw-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start:dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Pietro Piva \"Marechal Dev\" Vieira <pietro.developer@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.6"
+  }
+}
